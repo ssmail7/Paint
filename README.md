@@ -1,2 +1,3 @@
 # Paint
-Part of Project 2 from my Programming Concepts class during the Spring 2016 semester.
+
+This program determines how much paint is needed to paint the walls of a room, given its length, width, and height.
